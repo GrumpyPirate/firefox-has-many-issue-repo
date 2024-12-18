@@ -1,0 +1,6 @@
+.page {
+  display: flex;
+  flex-direction: row nowrap;
+  justify-content: space-bwtween;
+  gap: 64px;
+}
